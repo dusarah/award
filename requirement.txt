@@ -4,3 +4,14 @@ beautifulsoup4==4.9.3
 CacheControl==0.12.6
 certifi==2019.11.28
 chardet==3.0.4
+colorama==0.4.3
+confusable-homoglyphs==3.2.0
+contextlib2==0.6.0
+distlib==0.3.0
+distro==1.4.0
+Django==3.2
+django-bootstrap3==15.0.0
+django-bootstrap4==3.0.0
+django-registration==2.4.1
+django-tinymce==3.3.0
+html5lib==1.0.1
